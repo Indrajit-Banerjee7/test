@@ -1,5 +1,0 @@
-{{#user}
-Name: Indrajit Banerjee
-Skills: HTML, CSS, JS, React.js , Node.js , Express.js 
-Email: test@gmail.com
-{{/user}}
